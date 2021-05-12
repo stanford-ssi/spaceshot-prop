@@ -1,7 +1,7 @@
 clear; clc; close all;
 
 rocket_mass = 5.174; % kg, without motor
-stability_mass = 2; % kg
+stability_mass = 5; % kg
 
 
 %launch_alt = 29000; %m
